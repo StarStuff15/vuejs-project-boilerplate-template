@@ -1,8 +1,9 @@
-# Vuejs Example Template
+# VueJS Boilerplate Template
 A pre-baked template that uses:
 * Router https://router.vuejs.org/
 * Vuex https://vuex.vuejs.org/
 * Vuetify Components https://vuetifyjs.com/en/
+* MDI Icons https://materialdesignicons.com/ follow the instructions on Vuetify on how to use them.
 
 ## Requirements
 ### Yarn
