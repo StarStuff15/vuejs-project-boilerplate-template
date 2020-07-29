@@ -29,23 +29,23 @@ Change directory
 ```
 Install project dependencies
 ```
-yarn install
+~$ yarn install
 ```
 
 ## Development
-Compiles and hot-reloads for development
+Compiles and hot-reloads for development/testing locally
 ```
-yarn serve
+~$ yarn serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+~$ yarn build
 ```
 
 ### Lints and fixes files
 ```
-yarn lint
+~$ yarn lint
 ```
 
 ### Customize configuration
