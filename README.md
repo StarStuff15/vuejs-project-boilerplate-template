@@ -8,6 +8,7 @@ A pre-baked template that uses:
 ![image](src/assets/screenshot.png "screenshot of template")
 
 ## Requirements
+The below items are not necessary but will help with further development.
 ### Yarn
 > Yarn is a package manager for your code. It allows you to use and share (e.g. JavaScript) code with other developers from around the world. Yarn does this quickly, securely, and reliably so you don’t ever have to worry.
 
@@ -18,6 +19,10 @@ Installation guide https://classic.yarnpkg.com/en/docs/install/
 
 Installation guide https://git-scm.com/
 
+### VueJS CLI
+> Vue CLI aims to be the standard tooling baseline for the Vue ecosystem. It ensures the various build tools work smoothly together with sensible defaults so you can focus on writing your app instead of spending days wrangling with configurations. At the same time, it still offers the flexibility to tweak the config of each tool without the need for ejectin
+
+Installation guide https://cli.vuejs.org/guide/installation.html
 ## Project setup
 Clone the repository
 ```bash
