@@ -5,7 +5,7 @@ A pre-baked template that uses:
 * Vuetify Components https://vuetifyjs.com/en/
 * MDI Icons https://materialdesignicons.com/ follow the instructions on Vuetify on how to use them.
 
-![image](src/assets/screenshot.png, "screenshot of template")
+![image](src/assets/screenshot.png "screenshot of template")
 
 ## Requirements
 ### Yarn
