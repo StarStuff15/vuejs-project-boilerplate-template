@@ -18,11 +18,11 @@ Installation guide https://git-scm.com/
 ## Project setup
 Clone the repository
 ```bash
-~$ git clone http://
+~$ git clone https://github.com/arivictor/vuejs-project-boilerplate-template.git
 ```
 Change directory
 ```bash
-~$ cd directory
+~$ cd directory vuejs-project-boilerplate-template
 ```
 Install project dependencies
 ```
