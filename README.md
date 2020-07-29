@@ -1,8 +1,8 @@
 # Vuejs Example Template
 A pre-baked template that uses:
-* Router
-* Vuex
-* Vuetify Components
+* Router https://router.vuejs.org/
+* Vuex https://vuex.vuejs.org/
+* Vuetify Components https://vuetifyjs.com/en/
 
 ## Requirements
 ### Yarn
