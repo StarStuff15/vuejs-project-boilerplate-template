@@ -1,11 +1,36 @@
-# usqitn
+# Vuejs Example Template
+A pre-baked template that uses:
+* Router
+* Vuex
+* Vuetify Components
+
+## Requirements
+### Yarn
+> Yarn is a package manager for your code. It allows you to use and share (e.g. JavaScript) code with other developers from around the world. Yarn does this quickly, securely, and reliably so you don’t ever have to worry.
+
+Installation guide https://classic.yarnpkg.com/en/docs/install/
+
+### Git
+> Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
+
+Installation guide https://git-scm.com/
 
 ## Project setup
+Clone the repository
+```bash
+~$ git clone http://
+```
+Change directory
+```bash
+~$ cd directory
+```
+Install project dependencies
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+## Development
+Compiles and hot-reloads for development
 ```
 yarn serve
 ```
