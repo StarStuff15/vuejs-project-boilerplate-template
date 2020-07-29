@@ -30,26 +30,26 @@ Clone the repository
 ```
 Change directory
 ```bash
-~$ cd directory vuejs-project-boilerplate-template
+~$ cd vuejs-project-boilerplate-template
 ```
 Install project dependencies
-```
+```bash
 ~$ yarn install
 ```
 
 ## Development
 Compiles and hot-reloads for development/testing locally
-```
+```bash
 ~$ yarn serve
 ```
 
 ### Compiles and minifies for production
-```
+```bash
 ~$ yarn build
 ```
 
 ### Lints and fixes files
-```
+```bash
 ~$ yarn lint
 ```
 
