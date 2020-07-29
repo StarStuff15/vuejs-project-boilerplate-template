@@ -8,7 +8,7 @@ A pre-baked template that uses:
 ![image](src/assets/screenshot.png "screenshot of template")
 
 ## Requirements
-The below items are not necessary but will help with further development.
+The below items will help with further development.
 ### Yarn
 > Yarn is a package manager for your code. It allows you to use and share (e.g. JavaScript) code with other developers from around the world. Yarn does this quickly, securely, and reliably so you don’t ever have to worry.
 
