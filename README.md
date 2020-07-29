@@ -5,6 +5,8 @@ A pre-baked template that uses:
 * Vuetify Components https://vuetifyjs.com/en/
 * MDI Icons https://materialdesignicons.com/ follow the instructions on Vuetify on how to use them.
 
+![image](src/assets/screenshot.png, "screenshot of template")
+
 ## Requirements
 ### Yarn
 > Yarn is a package manager for your code. It allows you to use and share (e.g. JavaScript) code with other developers from around the world. Yarn does this quickly, securely, and reliably so you don’t ever have to worry.
